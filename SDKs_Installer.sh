@@ -6,9 +6,9 @@ echo ""
 
 if [ "$1" == "" ]; then
     echo "Supported SDKs are:"
-    echo "<+> 12.4"
-    echo "<+> 13.1"
-    echo "<+> 13.4"
+    echo "[+] 12.4"
+    echo "[+] 13.1"
+    echo "[+] 13.4"
     echo "To use type: SDKs_Installer.sh <SDKs version>"
 elif [ "$1" == "12.4" ]; then
     echo "Downloading..."
