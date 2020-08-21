@@ -1,4 +1,4 @@
-echo "------======+++ SDKS INSTALLER v1.0 +++======------"
+echo "------======+++ SDKS INSTALLER v1.1 +++======------"
 echo "                         by TobyyThePro"
 echo "GitHub: https://github.com/TobyyThePro"
 echo "Twitter: https://twitter.com/TobyyThePro"
